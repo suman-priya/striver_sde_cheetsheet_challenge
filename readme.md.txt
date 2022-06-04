@@ -1,0 +1,1 @@
+Daywise folder condains the problem solved at that day.
